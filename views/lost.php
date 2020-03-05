@@ -13,7 +13,7 @@
 </div>
 <div>
     <img src="images/pendu8.gif"
-         alt="">
+        alt="">
 </div>
 <div>
     <p>Voici les lettres que tu as déjà essayées&nbsp;: abcdefghijk</p>
