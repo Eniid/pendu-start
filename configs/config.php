@@ -29,5 +29,7 @@ $letters = [
     'y' => true,
     'z' => true,
 ];
+
+define('REMPLACEMENT', '*');
 define('SITE_TITLE', 'Le pendu');
 define('MAX_TRIALS', 8); 
